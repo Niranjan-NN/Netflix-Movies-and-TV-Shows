@@ -132,6 +132,6 @@ Netflix-Data-Analysis/
 **Niranjan NN**  
 Aspiring Data Analyst | Kaggle Contributor  
 - GitHub: https://github.com/Niranjan-NN  
-- Kaggle: https://www.kaggle.com/  
+- Kaggle: [https://www.kaggle.com/  ](https://www.kaggle.com/niranjan87901)
 
 ---
